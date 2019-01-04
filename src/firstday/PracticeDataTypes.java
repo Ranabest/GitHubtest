@@ -4,6 +4,7 @@ public class PracticeDataTypes {
 
 	public static void main(String[] args) {
 		//git is on the process
+		//git is in the second stage
 		int a=5;
 		System.out.println("My integer number is: " +a);
 		byte b=120;
