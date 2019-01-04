@@ -6,6 +6,11 @@ public class PracticeDataTypes {
 		//git is on the process
 		//git is in the second stage
 		//git is in the 3rd process
+		//develop branch
+		
+		//int a=5;
+		//System.out.println("My integer number is: " +a);
+
 		int a=5;
 		System.out.println("My integer number is: " +a);
 		byte b=120;
