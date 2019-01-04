@@ -10,7 +10,8 @@ public class PracticeDataTypes {
 		
 		//int a=5;
 		//System.out.println("My integer number is: " +a);
-
+		//int a=5;
+		//System.out.println("My integer number is: " +a);
 		int a=5;
 		System.out.println("My integer number is: " +a);
 		byte b=120;
